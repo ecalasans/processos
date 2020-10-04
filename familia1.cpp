@@ -103,7 +103,6 @@ int main(){
                                     cout << endl << "\tMeu PID eh " << getpid() << endl;
                                     break;
                             }
-                            cout << endl;
                         }
                         sleep(1);
                     }
